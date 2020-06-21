@@ -1,3 +1,6 @@
 # Deliver-System-ZIP
 Including four systems:Customer,Restaurant,DelivetGuy,Master.  
-我吐了，为什么一直上传失败，下次再传
+----------------------------------------------------------  
+wangwangwang23333：骑手系统、管理员系统、界面UI设计  
+Leo：顾客系统、商家系统  
+----------------------------------------------------------  
